@@ -44,7 +44,7 @@ TowedArrayPosition=0.0685,-0.056,-0.662
 
 [Weapon Systems]
 TorpedoTypes=usn_mk48_adcap,usn_moss,usn_ugm84,usn_tasm,usn_tlam
-TorpedoNumbers=20,4,8,8,8
+TorpedoNumbers=30,4,10,4,0
 TorpedoTubes=8
 NumberOfWires=8
 TubeConfig=1,1,1,1,1,1,1,1
@@ -55,7 +55,7 @@ MissileType=usn_tasm
 MissilesPerLauncher=4,4
 
 NoisemakerName=usn_noisemaker
-NumberOfNoisemakers=20
+NumberOfNoisemakers=60
 NoisemakerReloadTime=20
 
 [Subsystems]
