@@ -1,5 +1,9 @@
 NextAction=MAP
+<<<<<<< HEAD
 Image=campaign/images/tankerhit.jpg,campaign/images/Connie_BG.jpg
+=======
+Image=campaign/images/tankerhit.jpg,campaign/images/Hermes_BG.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/naval nato 1,campaign/images/photos/naval nato 2,campaign/images/photos/naval nato 3,campaign/images/photos/naval nato 4,campaign/images/photos/naval nato carrier 2
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

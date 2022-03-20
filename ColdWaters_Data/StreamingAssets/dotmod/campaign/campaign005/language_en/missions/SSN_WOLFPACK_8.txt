@@ -1,9 +1,16 @@
 [ORDERS]
 1.	(S) TACTICAL SITUATION:
+<<<<<<< HEAD
 ONE OF OUR BALLISTIC MISSILE SUBS IS PREPARING TO DEPLOY FROM HOLY LOCH.  YOU MUST CLEAR AND SANITIZE THE BOAT'S PATH TO DEEP WATER.   
 
 2.	(S) PRIMARY OBJECTIVE:
 PATROL ALONG THE CONTINENTAL SHELF NORTHWEST OF HOLY LOCH. 
+=======
+ONE OF OUR BALLISTIC MISSILE SUBS IS PREPARING TO DEPLOY FROM HMNB CLYDE.  YOU MUST CLEAR AND SANITIZE THE BOAT'S PATH TO DEEP WATER.   
+
+2.	(S) PRIMARY OBJECTIVE:
+PATROL ALONG THE CONTINENTAL SHELF NORTHWEST OF HMNB CLYDE. 
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 LOCATE AND SINK ANY ENEMY ATTACK SUBMARINES OPERATING IN THIS AREA.
 
 3.	(S) SECONDARY OBJECTIVE:
@@ -16,7 +23,11 @@ NONE
 BT
 0808	
 [MISSION WIN]
+<<<<<<< HEAD
 COMSUBLANT was very happy to hear about your recent success, Commander. I know a certain boomer skipper who owes your crew a few rounds.  
+=======
+Flag Officer Submarines was very happy to hear about your recent success, Commander. I know a certain boomer skipper who owes your crew a few rounds.  
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 [MISSION FAIL]
 Commander, your inability to execute your orders may lead to tragic results.  Report to my office immediately upon your return.
 [MISSION MISSED]

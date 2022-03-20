@@ -1,5 +1,9 @@
 NextAction=MAP
+<<<<<<< HEAD
 Image=campaign/images/mps1.jpg,campaign/images/637_Surf2.jpg,campaign/images/Convoy3.jpg
+=======
+Image=campaign/images/mps1.jpg,campaign/images/HMS_Oberon_Surface.jpg,campaign/images/Convoy3.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/unload7.jpg,campaign/images/photos/688i2.jpg, campaign/images/photos/port2.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

@@ -17,6 +17,10 @@ BT
 [MISSION WIN]
 Excellent job on intercepting and destroying Soviet submarine assets. You and your crew have given us a big morale boost.  Keep up the good work.
 [MISSION FAIL]
+<<<<<<< HEAD
 Discouraged to hear you lost this opportunity to significantly attrite Soviet forces. Better luck next time.
+=======
+Discouraged to hear you lost this opportunity to significantly deplete Soviet forces. Better luck next time.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 [MISSION MISSED]
 Disappointed to hear your results were not better. Be more aggressive.

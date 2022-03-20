@@ -1,5 +1,9 @@
 NextAction=event_intro_3
+<<<<<<< HEAD
 Image=campaign/images/88 soviet factory
+=======
+Image=campaign/images/iassv3aiyvuz.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/politics 4
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
@@ -13,4 +17,8 @@ Color=57,61,73,255
 Sentence1=ANALYSIS - The death of General Secretary Leonid Brezhnev is sure to result in considerable debate behind the Kremlin walls. The last decade has been one of stagnation and increased bureaucratization of the Soviet Colossus. 
 While reform is needed, internal resistance is heavy. A softening of internal policies is feared to send a signal of the socialist republic yielding to the power of capitalism.
 Color=218,218,208,255
+<<<<<<< HEAD
 Sentence2=An unnamed diplomatic source was quoted in a recent Time article, stating that: "The constant provocations from the Reagan administration have created an elevated and permanent anxiety concerning American aggression within the Politburo. President Reagan should think this over. It is dangerous."
+=======
+Sentence2=A recent Times article noted: "The provocations from the Reagan administration have created anxiety concerning American aggression within the Politburo. It is dangerous." Perhaps spurred on by Thatcher's surge in popularity after the Falklands Reagan is seeking a more warlike stance.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a

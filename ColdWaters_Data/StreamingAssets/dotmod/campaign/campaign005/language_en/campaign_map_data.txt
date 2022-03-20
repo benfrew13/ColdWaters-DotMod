@@ -1,5 +1,9 @@
 [LOCATION NAMES AND COUNTRY/REGION]
+<<<<<<< HEAD
 LocationName=Holy Loch=Scotland
+=======
+LocationName=Faslane=Scotland
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 LocationName=Torshavn=Faroe Islands
 LocationName=Reykjavik and Keflavik=Iceland
 LocationName=Hofn=Iceland
@@ -20,7 +24,11 @@ Size=10
 Font=2
 
 LabelPosition=-175.12,-185.38
+<<<<<<< HEAD
 LabelName=Holy Loch
+=======
+LabelName=Faslane
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 LabelPosition=-125.4,-48.75
 LabelName=Torshavn
 LabelPosition=-228.59,129.97

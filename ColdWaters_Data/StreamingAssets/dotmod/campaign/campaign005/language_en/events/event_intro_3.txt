@@ -1,5 +1,9 @@
 NextAction=event_intro_4
+<<<<<<< HEAD
 Image=campaign/images/securing forces
+=======
+Image=campaign/images/vanguard-sub.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/infantry pact 4,campaign/images/photos/infantry pact 5,campaign/images/photos/air pact helicopters 1
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
@@ -8,8 +12,16 @@ ForwardDate=7,14
 Font=0
 Outline=FALSE
 Color=180,71,64,255
+<<<<<<< HEAD
 Title=<b>Provoking the Bear<n>- Is Reagan Pushing Too Hard?</b>
 Color=57,61,73,255
 Sentence1=OPINION - With the recent announcement of the Strategic Defence Initiative (SDI), several independent political and security analysts are expressing a growing concern that the Reagan administration may be pressing the Soviets too hard.
 Color=218,218,208,255
 Sentence2=Tensions between the Soviet Union and the US are continually increasing. The increased US military spending, followed by President Reagan's denunciation of the Soviet Union as an "Evil Empire", raises the question of just how the Kremlin will react.
+=======
+Title=<b>Reagan Provoking the Bear<n>Is Thatcher Dragging Us In?</b>
+Color=57,61,73,255
+Sentence1=OPINION - With the recent announcement of the Strategic Defence Initiative (SDI), several independent political and security analysts are expressing a growing concern that the Reagan administration may be pressing the Soviets too hard.
+Color=218,218,208,255
+Sentence2=Tensions between the Soviet Union and the US are continually increasing. The increased US military spending, and the recent announcement of the replacement for our own Resolution-class, raises the question of just how the Kremlin will react.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a

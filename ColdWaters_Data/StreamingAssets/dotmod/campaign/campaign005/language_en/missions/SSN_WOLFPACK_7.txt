@@ -18,7 +18,11 @@ NONE
 BT
 0807
 [MISSION WIN]
+<<<<<<< HEAD
 COMSUBLANT was very happy to hear about your recent success, Commander.  Well done.
+=======
+Flag Officer Submarines was very happy to hear about your recent success, Commander.  Well done.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 [MISSION FAIL]
 Commander, inability to execute your orders is not the path to success. You must do better.
 [MISSION MISSED]

@@ -1,5 +1,9 @@
 NextAction=MAP
+<<<<<<< HEAD
 Image=campaign/images/MCM.jpg,campaign/images/MCM1.jpg
+=======
+Image=campaign/images/MCM_RN.jpg,campaign/images/MCM_RN1.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/mines1.jpg,campaign/images/photos/port.jpg
 Music=audio/music/Cold Waters Campaign Loss
 Header=<DATE>

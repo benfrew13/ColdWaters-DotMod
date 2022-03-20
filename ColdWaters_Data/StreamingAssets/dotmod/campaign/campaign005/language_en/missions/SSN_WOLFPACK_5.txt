@@ -18,7 +18,11 @@ NONE
 BT
 0805
 [MISSION WIN]
+<<<<<<< HEAD
 COMSUBLANT was very happy to hear about your recent success, Commander. The excellent work of you and your crew will be rewarded upon your next port visit! Well done.
+=======
+Flag Officer Submarines was very happy to hear about your recent success, Commander. The excellent work of you and your crew will be rewarded upon your next port visit! Well done.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 [MISSION FAIL]
 Commander, inability to meet the enemy submarine threat with resolve will make life on the Atlantic a lot more difficult for our colleagues. Not to mention a heck of a lot more dangerous for the merchies. We'll have to step it up.
 [MISSION MISSED]

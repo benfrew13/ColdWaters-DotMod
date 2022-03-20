@@ -1,7 +1,12 @@
 NextAction=MAP
+<<<<<<< HEAD
 //Image=campaign/images/pontoon.jpg,campaign/images/Convoy.jpg,campaign/images/598_Surf.jpg
 Image=campaign/images/598_Surf.jpg,campaign/images/637_Surf.jpg,campaign/images/637_Surf2.jpg
 Photo=campaign/images/photos/637b.jpg,campaign/images/photos/Unload3.jpg,campaign/images/photos/Port1.jpg
+=======
+Image=campaign/images/HMS_Valiant_S102_01.jpg,campaign/images/HMS_Trafalgar_SSN_cropped.jpg,campaign/images/HMS_Oberon_Surface.jpg
+Photo=campaign/images/photos/S102-HMS-Valiant.jpg,campaign/images/photos/Unload3.jpg,campaign/images/photos/Port1.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
 

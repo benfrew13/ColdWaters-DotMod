@@ -19,6 +19,12 @@ BT
 [MISSION WIN]
 Excellent job on intercepting and destroying Soviet naval assets.  You've bought us time, something that we were desperately short of.
 [MISSION FAIL]
+<<<<<<< HEAD
 Discouraged to hear you lost this opportunity to significantly attrite Soviet forces. Better luck next time.
 [MISSION MISSED]
 Discouraged to hear you lost this opportunity to significantly attrite Soviet forces. This is going to be a long war.
+=======
+Discouraged to hear you lost this opportunity to significantly deplete Soviet forces. Better luck next time.
+[MISSION MISSED]
+Discouraged to hear you lost this opportunity to significantly weaken Soviet forces. This is going to be a long war.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a

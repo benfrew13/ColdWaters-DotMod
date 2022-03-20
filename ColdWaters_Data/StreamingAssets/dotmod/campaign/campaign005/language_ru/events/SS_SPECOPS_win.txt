@@ -1,5 +1,9 @@
 NextAction=MAP
+<<<<<<< HEAD
 Image=campaign/images/marvydo.jpg,campaign/images/coastie.jpg
+=======
+Image=campaign/images/marvydo.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/port_security.jpg,campaign/images/photos/port_security1.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

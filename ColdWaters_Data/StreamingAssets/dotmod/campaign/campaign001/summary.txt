@@ -1,5 +1,9 @@
 Image=campaign/images/pact naval 2
+<<<<<<< HEAD
 PlayerVessels=usn_84_ssn_skipjack,usn_84_ssn_permit,usn_84_ssn_sturgeon,usn_84_ssn_narwhal,usn_84_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,uk_84_ssn_trafalgar,usn_84_ff_knox_pl,usn_84_ffg_perry_pl,usn_84_cg_belknap_pl,usn_84_cg_ticonderoga_pl
+=======
+PlayerVessels=usn_84_ssn_skipjack,usn_84_ssn_permit,usn_84_ssn_sturgeon,usn_84_ssn_narwhal,usn_84_ssn_los_angeles,uk_84_ssn_trafalgar,usn_84_ff_knox_pl,usn_84_ffg_perry_pl,usn_84_cg_belknap_pl,usn_84_cg_ticonderoga_pl,usn_84_bb_iowa_pl
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 [COMMANDER NAMES]
 CommanderName=COMSUBLANT
 CommanderFleetName=CINCLANTFLT

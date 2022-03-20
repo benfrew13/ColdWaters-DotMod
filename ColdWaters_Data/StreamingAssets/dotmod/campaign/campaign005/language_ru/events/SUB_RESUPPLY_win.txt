@@ -1,6 +1,11 @@
 NextAction=MAP
+<<<<<<< HEAD
 Image=campaign/images/donhit.jpg,campaign/images/BB.jpg
 Photo=campaign/images/photos/naval nato 1,campaign/images/photos/naval nato 2,campaign/images/photos/naval nato 3,campaign/images/photos/naval nato carrier 1
+=======
+Image=campaign/images/donhit.jpg
+Photo=campaign/images/photos/Leander-1.jpg,campaign/images/photos/Leander-2.jpg,campaign/images/photos/HMS-Nottingham.jpg,campaign/images/photos/HMS-Invincible.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
 

@@ -18,7 +18,11 @@ NONE
 BT
 1706
 [MISSION WIN]
+<<<<<<< HEAD
 COMSUBLANT was very happy to hear about your recent success, Commander. The Soviets should be aware that the North Sea is NATO property.  The excellent work of you and your crew is what gets that message across! Well done.
+=======
+Flag Officer Submarines was very happy to hear about your recent success, Commander. The Soviets should be aware that the North Sea is NATO property.  The excellent work of you and your crew is what gets that message across! Well done.
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 [MISSION FAIL]
 Commander, we are gaining the upper hand overall but you can do much better.  Step it up or step out.  
 [MISSION MISSED]

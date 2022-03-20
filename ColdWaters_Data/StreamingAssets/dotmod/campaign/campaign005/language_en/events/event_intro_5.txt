@@ -1,5 +1,9 @@
 NextAction=event_intro_6
+<<<<<<< HEAD
 Image=campaign/images/pershings
+=======
+Image=campaign/images/Pershing_II_missiles_at_McGregor_Range.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Photo=campaign/images/photos/protests 1,campaign/images/photos/protests 2
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

@@ -1,6 +1,11 @@
 NextAction=MAP
+<<<<<<< HEAD
 Image=campaign/images/nato convoy,campaign/images/585_Surf.jpg,campaign/images/convoy2.jpg
 Photo=campaign/images/photos/cargo 1,campaign/images/photos/594a.jpg, campaign/images/photos/unload1.jpg
+=======
+Image=campaign/images/nato convoy,campaign/images/HMS Talent Birthday-1-21-20.jpg,campaign/images/convoy2.jpg
+Photo=campaign/images/photos/cargo 1,campaign/images/photos/S102-HMS-Valiant.jpg, campaign/images/photos/unload1.jpg
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
 

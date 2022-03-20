@@ -89,7 +89,7 @@ DetectionRange=2000
 
 [Locations]
 //UK
-//Holy Loch 0
+//HMNB Clyde 0
 Alignment=FRIENDLY
 Function=PLAYER_BASE,NAVAL_BASE,AIRBASE
 BaseMapPosition=-224,-198
@@ -399,15 +399,14 @@ Event=event_sunk_lost_at_sea=LOST_AT_SEA
 Event=event_early_end_1
 Event=event_early_end_2
 Event=event_campaign_statistics=STATISTICS
-Event=event_award_bronze_star
-Event=event_award_silver_star
-Event=event_award_navy_cross
-Event=event_award_medal_of_honor
-Event=event_award_navy_com
-Event=event_award_navy_dsm
-Event=event_award_legion_of_merit
-Event=event_award_purple_heart
-Event=event_award_presidential_citation
+Event=event_award_UK_queens_commendation_for_valuable_service
+Event=event_award_UK_mentioned_in_despatches
+Event=event_award_UK_conspicuous_gallantry_cross
+Event=event_award_UK_victoria_cross
+Event=event_award_UK_general_service_medal
+Event=event_award_UK_distinguished_service_cross
+Event=event_award_UK_distinguished_service_order
+Event=event_award_UK_queens_gallantry_medal
 Event=ASW_win
 Event=ASW_fail
 Event=SS_SPECOPS_win
@@ -445,3 +444,4 @@ Event=ASUW_STRIKE_CARRIER_fail
 Event=SURGE_win
 Event=SURGE_win2
 Event=SURGE_fail
+Event=event_halfinventory_wp_modern_ssn

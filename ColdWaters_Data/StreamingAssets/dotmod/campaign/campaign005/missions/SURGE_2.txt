@@ -20,6 +20,10 @@ RequiresWeapon=
 NumberOfEnemyUnits=1-2
 CombatBehaviour=DEFENSIVE
 EnemyUnitMissionCritical=TRUE
+<<<<<<< HEAD
 EnemyShipClasses=wp_84_ssgn_charlie2
+=======
+EnemyShipClasses=wp_modern_ssgn
+>>>>>>> 468803d2937114581132c6bc24f76207e6a2c43a
 EventWin=SURGE_win
 EventFail=SURGE_fail
